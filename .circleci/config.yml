@@ -9,7 +9,7 @@ jobs:
       - image: "cimg/base:stable"
     steps:
       - node/install:
-        node-version: '16.14.0'
+        node-version: '16.3'
       - checkout
       - run:
           name: Front-End Install
