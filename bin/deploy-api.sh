@@ -1,0 +1,1 @@
+cd udagram-api && eb deploy Udagramalnakeebapi-env
