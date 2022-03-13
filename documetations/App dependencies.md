@@ -1,5 +1,5 @@
 # App dependencies
-    - backend
+- backend
     - aws-sdk
     - bcrypt
     - body-parser
