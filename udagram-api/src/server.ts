@@ -18,7 +18,7 @@ async function server()  {
   console.log("Database Connected");
 
   const app = express();
-  const port =process.env.PORT || 3000;
+  const port =process.env.PORT || 8080;
 
 
   app.use(bodyParser.json());
@@ -34,7 +34,6 @@ async function server()  {
 
   // Start the Server
   app.listen(port, () => {
-    console.log(`server running ${process.env.URL}`);
     console.log(`press CTRL+C to stop server`);
   });
 }
