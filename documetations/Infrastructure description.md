@@ -1,5 +1,4 @@
 # App Infrastructure
-
     - api build with node.js hosted on ElasticBeanstalk
     - PostgreSQL database hosted on aws RDS 
     - frontend build with angular hosted on AWS S3

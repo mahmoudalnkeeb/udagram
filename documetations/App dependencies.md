@@ -1,7 +1,6 @@
 # App dependencies
 
     - backend
-
         - aws-sdk
         - bcrypt
         - body-parser
@@ -14,9 +13,7 @@
         - reflect-metadata
         - sequelize
         - typescript
-
     - frontend
-
         - angular
         - ionic
         - typescript

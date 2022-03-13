@@ -1,5 +1,4 @@
 # pipline steps
-
     - install node js
     - install aws cli
     - install eb cli 
