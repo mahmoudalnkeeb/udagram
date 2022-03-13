@@ -1,1 +1,1 @@
-cd udagram-api && eb init 1 1 && eb deploy Udagramalnakeebapi-env
+cd udagram-api && eb init  && eb deploy Udagramalnakeebapi-env
